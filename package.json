@@ -1,0 +1,57 @@
+{
+  "name": "countly-sdk-js",
+  "version": "1.0.2",
+  "description": "React Native wrapper for countly",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magus/react-native-facebook-login"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "native",
+    "ios",
+    "android",
+    "facebook",
+    "login",
+    "sdk"
+  ],
+  "author": {
+    "name": "Trinisoft Technologies"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magus/react-native-facebook-login/issues"
+  },
+  "homepage": "https://github.com/magus/react-native-facebook-login",
+  "peerDependencies": {
+    "react-native": ">=0.14.2"
+  },
+  "gitHead": "20db8790affccbedbf45e83ad277250c94147bdf",
+  "_id": "react-native-facebook-login@1.0.2",
+  "_shasum": "199b5905eda68857e4dd0b410d1ac356032b6909",
+  "_from": "react-native-facebook-login@latest",
+  "_npmVersion": "2.7.5",
+  "_nodeVersion": "4.1.0",
+  "_npmUser": {
+    "name": "noah",
+    "email": "noah.m.jorgenson@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "noah",
+      "email": "noah.m.jorgenson@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "199b5905eda68857e4dd0b410d1ac356032b6909",
+    "tarball": "http://registry.npmjs.org/react-native-facebook-login/-/react-native-facebook-login-1.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-facebook-login/-/react-native-facebook-login-1.0.2.tgz"
+}
